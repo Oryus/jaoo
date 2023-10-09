@@ -20,7 +20,7 @@ public class Exercise {
         } else {
             // TODO (1) check if the argument contains only digits
             // TODO (2) check if the argument contains at least one digit
-
+        	
             System.out.println("Done");
         }
     }
